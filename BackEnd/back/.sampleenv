@@ -1,0 +1,12 @@
+PORT = 8000
+MONGOO_URL = mongodb+srv://yourid:yourpass@cluster0.uk4lg.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=secretToken
+ACCESS_TOKEN_EXPIRY=timeToExpire
+REFRESH_TOKEN_SECRET=refreshSecretToken
+REFRESH_TOKEN_EXPIRY=refreshtimeToExpire
+CLOUDINARY_CLOUD_NAME=yourCloudinaryId
+CLOUDINARY_API_KEY=yourApiKey
+CLOUDINARY_API_SECRET=yourSecretKey
+
+
